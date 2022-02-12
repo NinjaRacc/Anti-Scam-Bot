@@ -1,2 +1,2 @@
-# <centre>Anti-Scam-Bot
-Stop those pesky discord nitro scams in your discord server with this self-hostable bot </centre>
+<h1 align="center"> Anti-Scam-Bot </h1>
+stop those pesky discord nitro scams in you discord server with this self-hostable bot
